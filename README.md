@@ -4,6 +4,8 @@ This project is a clone of the YouTube platform. I've tried some new tools like 
 
 # ReactJs, MaterialUI, RapidApi  
 
+npm package manager for installing the dependencies of the MaterialUI
+
 I've used MaterialUI components to wrap the container files of the cards and other small components. 
 Material UI is an open-source React component library that implements Google's Material Design. It includes a comprehensive collection of prebuilt components that are ready for use in production right out of the box. 
 
