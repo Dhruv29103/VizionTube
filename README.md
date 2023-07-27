@@ -1,6 +1,6 @@
 # VisionTube
 
-This project is a clone of the YouTube platform. I've tried some new tools like Material UI to make this project done, also used RapidApi to fetch the details of the current youtube platform. This platform also provides keyword-based searching, and this feature is provided by the RapidApi platform. 
+This project is a clone of the YouTube platform. I've tried some new tools like Material UI to make this project done, also used RapidApi to fetch the details of the current youtube platform. This platform also provides keyword-based and categorized searching, and this feature provided by the RapidApi platform. 
 
 # ReactJs, MaterialUI, RapidApi  
 
